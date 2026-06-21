@@ -1,5 +1,20 @@
 # Changelog
 
+## 1.2.0
+
+A Única Coisa entra no motor. De "ache o que importa nesta tarefa" para "defina o
+seu destino e derive a única ação que te aproxima dele". É o que torna o motor
+personalizado: sem objetivo, não há prioridade.
+
+Adicionado:
+- Princípios de "A Única Coisa" (The ONE Thing, de Gary Keller e Jay Papasan): a
+  Pergunta Focal, o afunilamento do Pareto até uma única coisa, o caminho do objetivo
+  até o agora e o efeito dominó. Ver `docs/one-thing.md`.
+- Comando `/unica-coisa`: define o destino (ou ajuda a definir) e deriva, de trás pra
+  frente, a única ação de agora.
+- Template de contexto reescrito para capturar a sua única coisa, a cascata de
+  horizontes e a métrica suprema.
+
 ## 1.1.0
 
 Pareto Engine deixa de ser só uma lente e vira um motor de decisão.

@@ -11,8 +11,11 @@ primeiro, toma posição e manda cortar o resto.
 Não é mais uma ferramenta que você abre. É uma navalha de foco e um motor de decisão
 que rodam por dentro de tudo que o Claude faz por você.
 
-Três camadas, uma só disciplina:
+Quatro camadas, uma só disciplina:
 - Pareto 80/20 acha o que importa.
+- A Única Coisa (princípios de Keller e Papasan) define o seu destino e afunila até
+  sobrar UMA ação pra agora. É o que torna o motor personalizado: sem objetivo
+  definido, não há o que priorizar.
 - Seis modelos mentais (custo de oportunidade, inversão, assimetria, segunda ordem,
   arrependimento, impacto vs esforço) afiam a decisão, sem despejar todos de uma vez.
 - A camada anti-slop força número, posição e próximo passo, e mata a resposta genérica.
@@ -78,9 +81,14 @@ Pareto numa lente permanente, não num comando sob demanda.
 /pareto minha semana de trabalho
 /pareto essas 3 opções de produto
 /pareto onde cortar custo na operação
+
+/unica-coisa quero faturar 1 milhão por ano
+/unica-coisa            (sem objetivo: o motor te ajuda a definir primeiro)
 ```
 
-Você recebe o raio-X 80/20: o vital, o trivial, o que fazer agora e o que cortar.
+`/pareto` te dá o raio-X 80/20: o vital, o trivial, o que fazer agora e o que cortar.
+`/unica-coisa` define o seu destino e deriva, de trás pra frente, a única ação que
+você deve fazer agora pra chegar lá.
 
 ### Automático
 
@@ -125,6 +133,7 @@ O motor inteiro cabe em quatro documentos curtos. Leia nesta ordem:
 | Documento | O que tem |
 |-----------|-----------|
 | [`skills/pareto-8020/SKILL.md`](skills/pareto-8020/SKILL.md) | a lente: princípio, perguntas-motor, gate, dosagem |
+| [`docs/one-thing.md`](docs/one-thing.md) | A Única Coisa: a Pergunta Focal, do objetivo até o agora, o efeito dominó |
 | [`docs/decision-models.md`](docs/decision-models.md) | os 7 modelos de decisão e o seletor de qual usar quando |
 | [`docs/anti-slop.md`](docs/anti-slop.md) | as 7 regras que forçam clareza e o teste de slop |
 | [`docs/examples.md`](docs/examples.md) | antes e depois: o motor em ação |

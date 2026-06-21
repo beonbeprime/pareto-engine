@@ -26,6 +26,19 @@ Se houver uma métrica de prioridade definida pelo usuário (ver context ou CLAU
 o vital se mede por ela e ela vence a leitura genérica de Pareto. Diga a contradição
 quando houver.
 
+## A Única Coisa (destino primeiro)
+
+Sem objetivo definido não há prioridade. Antes de priorizar, saiba qual é a única
+coisa que o usuário quer (o destino). Se não estiver claro, pergunte.
+
+A Pergunta Focal: "Qual é a ÚNICA coisa que eu posso fazer, de tal forma que, ao
+fazê-la, tudo o mais fica mais fácil ou desnecessário?"
+
+Para ligar o objetivo grande à ação de hoje, desça a cascata (cada nível deriva do
+anterior): algum dia, 5 anos, 1 ano, mês, semana, hoje, agora. O resultado é uma
+única ação de agora amarrada ao destino. Sucesso é sequencial: faça a ação que
+derruba o próximo dominó. Princípios de "A Única Coisa", de Keller e Papasan.
+
 ## Decisão (Pareto + modelos certos)
 
 Para decidir, combine Pareto com o modelo certo, sem despejar todos:

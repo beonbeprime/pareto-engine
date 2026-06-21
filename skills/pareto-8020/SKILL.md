@@ -48,6 +48,23 @@ apontar para um lado e a prioridade do usuário para outro, a prioridade do usu�
 vence, e você diz a contradição em voz alta. Procure essa métrica no contexto do
 projeto, no CLAUDE.md ou na conversa. Se não houver, infira e declare o que assumiu.
 
+## A Única Coisa (destino primeiro)
+
+Pareto acha o que importa numa tarefa. A Única Coisa (princípios de Keller e Papasan)
+vai além: define o destino e afunila até sobrar UMA ação. Sem objetivo, não há
+prioridade, então o destino vem primeiro.
+
+A Pergunta Focal: "Qual é a ÚNICA coisa que eu posso fazer, de tal forma que, ao
+fazê-la, tudo o mais fica mais fácil ou desnecessário?"
+
+Como aplicar:
+- Se o usuário não definiu a única coisa dele (objetivo), pergunte antes de priorizar.
+- Para ligar o objetivo à ação de hoje, desça a cascata: algum dia, 5 anos, 1 ano,
+  mês, semana, hoje, agora. Cada nível deriva do anterior, até a única ação de agora.
+- Toda priorização mede o vital por proximidade à única coisa do usuário.
+- Sucesso é sequencial (efeito dominó): a única coisa de agora é a que derruba o
+  próximo dominó, não necessariamente a maior.
+
 ## Motor de decisão (Pareto + 6 modelos)
 
 Pareto acha o que importa. Para DECIDIR bem, combine com os modelos certos, sem
