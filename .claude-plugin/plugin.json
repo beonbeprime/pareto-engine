@@ -1,0 +1,17 @@
+{
+  "name": "pareto-engine",
+  "version": "1.0.0",
+  "description": "A lente 80/20 sempre ativa para o Claude Code. Separa os poucos vitais (20% que geram 80% do resultado) dos muitos triviais em toda decisao, analise e execucao.",
+  "author": {
+    "name": "Allysson Silveira"
+  },
+  "keywords": [
+    "pareto",
+    "80/20",
+    "prioritization",
+    "focus",
+    "decision-making",
+    "productivity"
+  ],
+  "license": "MIT"
+}
