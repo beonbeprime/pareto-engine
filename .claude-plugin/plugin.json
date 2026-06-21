@@ -1,7 +1,7 @@
 {
   "name": "pareto-engine",
   "version": "1.1.0",
-  "description": "Motor de decisao 80/20 para o Claude Code. Pareto acha o que importa, 6 modelos mentais afiam a escolha e uma camada anti-slop forca clareza em toda decisao, analise e execucao.",
+  "description": "Motor de decisão 80/20 para o Claude Code. Pareto acha o que importa, 6 modelos mentais afiam a escolha e uma camada anti-slop força clareza em toda decisão, análise e execução.",
   "author": {
     "name": "Allysson Silveira"
   },

@@ -1,18 +1,18 @@
 # Seu filtro supremo de prioridade
 
-A lente Pareto fica muito mais afiada quando conhece a SUA prioridade numero um.
+A lente Pareto fica muito mais afiada quando conhece a SUA prioridade número um.
 Preencha os campos abaixo. A partir daqui, o "20% vital" passa a ser medido pela
-sua metrica, e a lente avisa quando a leitura generica de Pareto contraria o que de
-fato importa pra voce.
+sua métrica, e a lente avisa quando a leitura genérica de Pareto contraria o que de
+fato importa pra você.
 
 ---
 
-## Minha metrica suprema
+## Minha métrica suprema
 
 Em uma frase, o que mais importa no meu trabalho ou projeto agora:
 
 > (exemplo: aumentar receita recorrente / publicar pesquisa / reduzir tempo gasto em
-> tarefa manual / ganhar usuarios ativos / fechar reunioes de venda)
+> tarefa manual / ganhar usuários ativos / fechar reuniões de venda)
 
 Escreva a sua aqui:
 
@@ -22,9 +22,9 @@ Escreva a sua aqui:
 
 ## A pergunta-filtro
 
-Toda priorizacao passa por esta pergunta antes de virar recomendacao:
+Toda priorização passa por esta pergunta antes de virar recomendação:
 
-> "Isso aumenta [minha metrica suprema]? Se nao, por que e prioridade?"
+> "Isso aumenta [minha métrica suprema]? Se não, por que é prioridade?"
 
 ---
 

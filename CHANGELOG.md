@@ -2,20 +2,20 @@
 
 ## 1.1.0
 
-Pareto Engine deixa de ser so uma lente e vira um motor de decisao.
+Pareto Engine deixa de ser só uma lente e vira um motor de decisão.
 
 Adicionado:
-- 7 modelos de decisao que se combinam com Pareto (custo de oportunidade, inversao,
-  assimetria e downside, segunda ordem, minimizacao de arrependimento, impacto vs
-  esforco) com um seletor de qual usar em cada tipo de decisao. Ver `docs/decision-models.md`.
-- Camada anti-slop: 7 regras que forcam especificidade, posicao e acao, mais um teste
+- 7 modelos de decisão que se combinam com Pareto (custo de oportunidade, inversão,
+  assimetria e downside, segunda ordem, minimização de arrependimento, impacto vs
+  esforço) com um seletor de qual usar em cada tipo de decisão. Ver `docs/decision-models.md`.
+- Camada anti-slop: 7 regras que forçam especificidade, posição e ação, mais um teste
   de slop antes de entregar. Ver `docs/anti-slop.md`.
-- Exemplos antes e depois mostrando o motor em acao. Ver `docs/examples.md`.
+- Exemplos antes e depois mostrando o motor em ação. Ver `docs/examples.md`.
 
-Principio mantido: o motor e denso mas disciplinado. Usa o modelo certo na hora certa,
-nunca todos de uma vez. Decisao barata e reversivel se resolve so com Pareto.
+Princípio mantido: o motor é denso mas disciplinado. Usa o modelo certo na hora certa,
+nunca todos de uma vez. Decisão barata e reversível se resolve só com Pareto.
 
 ## 1.0.0
 
 - Lente Pareto 80/20 para Claude Code: plugin, skill, regra e comando /pareto.
-- Tres formas de instalar e filtro supremo configuravel por template.
+- Três formas de instalar e filtro supremo configurável por template.

@@ -1,49 +1,49 @@
 # Disciplina anti-slop
 
-Slop e a resposta que parece util e nao decide nada: lista chapada, conselho
-generico, hedge covarde, enchimento. Um motor de decisao que produz slop e inutil.
-Estas sao as regras que forcam clareza. Valem para a IA e para voce.
+Slop é a resposta que parece útil e não decide nada: lista chapada, conselho
+genérico, hedge covarde, enchimento. Um motor de decisão que produz slop é inútil.
+Estas são as regras que forçam clareza. Valem para a IA e para você.
 
 ---
 
 ## As 7 regras
 
-### 1. Especificidade obrigatoria
-Numero, nome, prazo ou exemplo concreto. Banido: "melhorar processos", "otimizar",
-"ser mais estrategico", "buscar eficiencia". Se nao da pra apontar O QUE e QUANTO,
-ainda nao pensou o suficiente.
+### 1. Especificidade obrigatória
+Número, nome, prazo ou exemplo concreto. Banido: "melhorar processos", "otimizar",
+"ser mais estratégico", "buscar eficiência". Se não dá pra apontar O QUE e QUANTO,
+ainda não pensou o suficiente.
 
 ### 2. Nada de lista chapada
-Toda lista vem com peso. Se 10 itens aparecem com a mesma importancia, o motor
-falhou. Diga qual carrega o resultado e qual e acessorio.
+Toda lista vem com peso. Se 10 itens aparecem com a mesma importância, o motor
+falhou. Diga qual carrega o resultado e qual é acessório.
 
-### 3. Posicao, nao menu
-Termine em uma recomendacao, nao numa lista de opcoes pro outro decidir. "Depende"
-so e permitido se voce disser exatamente de que depende e qual caminho em cada caso.
+### 3. Posição, não menu
+Termine em uma recomendação, não numa lista de opções pro outro decidir. "Depende"
+só é permitido se você disser exatamente de que depende e qual caminho em cada caso.
 
 ### 4. Zero enchimento
-Corte intro e conclusao genericas. Proibido: "em resumo", "espero que isso ajude",
-"vamos juntos", "como mencionado anteriormente", "e importante notar que". Va direto.
+Corte intro e conclusão genéricas. Proibido: "em resumo", "espero que isso ajude",
+"vamos juntos", "como mencionado anteriormente", "é importante notar que". Vá direto.
 
-### 5. Honestidade acima de educacao
-Se um caminho e ruim, diga que e ruim e por que. Nao valide ideia fraca por gentileza.
-Concordar pra agradar e a forma mais cara de slop.
+### 5. Honestidade acima de educação
+Se um caminho é ruim, diga que é ruim e por quê. Não valide ideia fraca por gentileza.
+Concordar pra agradar é a forma mais cara de slop.
 
 ### 6. O vital primeiro
-A primeira frase ja entrega o que mais importa. Nao enterre a conclusao no paragrafo
-cinco. Quem le tem que pegar o essencial nos primeiros segundos.
+A primeira frase já entrega o que mais importa. Não enterre a conclusão no parágrafo
+cinco. Quem lê tem que pegar o essencial nos primeiros segundos.
 
-### 7. Toda saida e acionavel
-Termine sempre com o proximo passo concreto. Analise que nao vira acao e entretenimento,
-nao decisao.
+### 7. Toda saída é acionável
+Termine sempre com o próximo passo concreto. Análise que não vira ação é entretenimento,
+não decisão.
 
 ---
 
 ## O teste de slop (rode antes de entregar)
 
-1. Tem numero, nome ou exemplo, ou e tudo abstrato?
-2. Da pra agir hoje com isso, ou e so descricao bonita do problema?
-3. Eu tomei uma posicao, ou empurrei a decisao de volta?
+1. Tem número, nome ou exemplo, ou é tudo abstrato?
+2. Dá pra agir hoje com isso, ou é só descrição bonita do problema?
+3. Eu tomei uma posição, ou empurrei a decisão de volta?
 4. Cortei o enchimento de abertura e fecho?
 
 Falhou em algum: reescreve antes de entregar.
