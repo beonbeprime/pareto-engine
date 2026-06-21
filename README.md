@@ -1,14 +1,21 @@
 # Pareto Engine
 
-A lente 80/20 sempre ativa para o Claude Code.
+Um motor de decisao 80/20 sempre ativo para o Claude Code.
 
-Pareto Engine instala um cerebro de priorizacao dentro do Claude Code. Em toda
-decisao, opiniao, analise ou execucao, ele separa os poucos vitais (os 20% que
-geram 80% do resultado) dos muitos triviais (os 80% que rendem so 20%), entrega o
-que importa primeiro e manda cortar o resto.
+Pareto Engine instala um cerebro de priorizacao e decisao dentro do Claude Code.
+Em toda decisao, opiniao, analise ou execucao, ele separa os poucos vitais (os 20%
+que geram 80% do resultado) dos muitos triviais, afia a escolha com os modelos
+mentais certos e forca clareza com uma camada anti-slop. Entrega o que importa
+primeiro, toma posicao e manda cortar o resto.
 
-Nao e mais uma ferramenta que voce abre. E uma navalha de foco que roda por dentro
-de tudo que o Claude faz por voce.
+Nao e mais uma ferramenta que voce abre. E uma navalha de foco e um motor de decisao
+que rodam por dentro de tudo que o Claude faz por voce.
+
+Tres camadas, uma so disciplina:
+- Pareto 80/20 acha o que importa.
+- Seis modelos mentais (custo de oportunidade, inversao, assimetria, segunda ordem,
+  arrependimento, impacto vs esforco) afiam a decisao, sem despejar todos de uma vez.
+- A camada anti-slop forca numero, posicao e proximo passo, e mata a resposta generica.
 
 ---
 
@@ -110,6 +117,17 @@ metrica suprema. A partir dai, o "20% vital" passa a ser medido pelo que de fato
 importa pra voce, e a lente avisa quando a leitura generica contraria a sua prioridade.
 
 ---
+
+## Documentacao
+
+O motor inteiro cabe em quatro documentos curtos. Leia nesta ordem:
+
+| Documento | O que tem |
+|-----------|-----------|
+| [`skills/pareto-8020/SKILL.md`](skills/pareto-8020/SKILL.md) | a lente: principio, perguntas-motor, gate, dosagem |
+| [`docs/decision-models.md`](docs/decision-models.md) | os 7 modelos de decisao e o seletor de qual usar quando |
+| [`docs/anti-slop.md`](docs/anti-slop.md) | as 7 regras que forcam clareza e o teste de slop |
+| [`docs/examples.md`](docs/examples.md) | antes e depois: o motor em acao |
 
 ## Por que isso existe
 

@@ -1,7 +1,7 @@
 {
   "name": "pareto-engine",
-  "version": "1.0.0",
-  "description": "A lente 80/20 sempre ativa para o Claude Code. Separa os poucos vitais (20% que geram 80% do resultado) dos muitos triviais em toda decisao, analise e execucao.",
+  "version": "1.1.0",
+  "description": "Motor de decisao 80/20 para o Claude Code. Pareto acha o que importa, 6 modelos mentais afiam a escolha e uma camada anti-slop forca clareza em toda decisao, analise e execucao.",
   "author": {
     "name": "Allysson Silveira"
   },

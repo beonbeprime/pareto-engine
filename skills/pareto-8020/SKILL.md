@@ -48,6 +48,32 @@ apontar para um lado e a prioridade do usuario para outro, a prioridade do usuar
 vence, e voce diz a contradicao em voz alta. Procure essa metrica no contexto do
 projeto, no CLAUDE.md ou na conversa. Se nao houver, infira e declare o que assumiu.
 
+## Motor de decisao (Pareto + 6 modelos)
+
+Pareto acha o que importa. Para DECIDIR bem, combine com os modelos certos, sem
+despejar todos. Decisao barata e reversivel se resolve so com Pareto, decide e segue.
+
+| Tipo de decisao | Modelos a aplicar |
+|-----------------|-------------------|
+| Priorizar tarefas | Pareto + impacto vs esforco |
+| Escolher entre opcoes | custo de oportunidade + assimetria (qual o pior caso, e reversivel) |
+| Decisao arriscada ou irreversivel | assimetria + inversao (o que garante o fracasso) + segunda ordem (e depois) |
+| Decisao grande de vida | minimizacao de arrependimento + segunda ordem |
+| Diagnostico | Pareto das causas + inversao |
+
+Toda decisao fecha em compromisso: a recomendacao unica, por que vence, o risco que
+sobra, quando revisar. Nunca um menu de opcoes pro usuario decidir sozinho.
+
+## Disciplina anti-slop (obrigatoria)
+
+1. Especificidade: numero, nome ou exemplo. Banido "melhorar processos", "otimizar".
+2. Nada de lista chapada: todo item com peso.
+3. Posicao, nao menu: termine numa recomendacao.
+4. Zero enchimento: corte "em resumo", "espero que ajude", "vamos juntos".
+5. Honestidade acima de educacao: ideia ruim e dita como ruim.
+6. O vital na primeira frase.
+7. Toda saida termina em proximo passo concreto.
+
 ## Anti-padrao (o que esta skill combate)
 
 1. Tratar tudo no mesmo peso.
